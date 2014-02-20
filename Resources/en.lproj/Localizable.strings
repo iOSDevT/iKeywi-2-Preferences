@@ -1,0 +1,37 @@
+{
+	APPLY = Apply;
+	CANCEL = Cancel;
+	"CAPITAL_KEYPAD" = "Capital Keypad";
+	CONFIRM = Confirm;
+	"CUSTOMIZABLE_EXTRA_KEYS_FOR_ALL_LANGUAGES" = "Customizable Extra Keys For All Languages";
+	"DISPLAYMENT_LABEL" = "\U2190 Key Displayment";
+	ENABLED = Enabled;
+	"FOUND_IKEYWI_SETTINGS" = "Found iKeywi 1 Settings";
+	"FOUND_IKEYWI_SETTINGS_MESSAGE" = "iKeywi 1 settings file exists. Would you like to import it now?";
+	HELP = Help;
+	"IKEYWI_SHARE_TEXT" = "I'm using #iKeywi 2 to add customizable keys to my iPhone's keyboard! ";
+	IMPORT = Import;
+	"IMPORT_SETTINGS" = "Import Settings";
+	"IMPORT_SETTINGS_MESSAGE" = "All custom keys and settings will be imported from iKeywi 1. Would you like to continue?";
+	"KEY_DISPLAYMENT_DETAIL" = "Key Displayment is the text which shows on the key. Default value is same as Key Representation.";
+	"KEY_DISPLAYMENT_OPTIONAL" = "Key Displayment (Optional)";
+	"KEYS_ONLY_AVAILABLE_FOR_SOME_LANG" = "Key 11 and 12 are only available in some languages.";
+	"KEY_REPRESENTATION" = "Key Representation";
+	"KEY_REPRESENTATION_DETAIL" = "Key Representation is the text which will be input after you click the key.";
+	"LANDSCAPE_KEY_HEIGHT" = "Landscape Key Height";
+	"NOCASE_OPTION_DESCRIPTION" = "Only works for languages without cases, such as Arabic and Hebrew. Enable this option to make the extra row show custom keys as capital keypad.";
+	"NUMBER_ALT_KEYPAD" = "Symbol Keypad";
+	"NUMBER_KEYPAD" = "Number Keypad";
+	"OPTION_FOR_NOCASE_KEYBOARD" = "Option For No Case Keyboard";
+	"PORTRAIT_KEY_HEIGHT" = "Portrait Key Height";
+	"REPRESENTATION_LABEL" = "\U2190 Key Representation";
+	"RESET_SETTINGS" = "Reset Settings";
+	"RESET_SETTINGS_MESSAGE" = "All custom keys and settings will be reset to the default value. Would you like to continue?";
+	"RESPRING_BUTTON" = Continue;
+	"RESTART_SPRINGBOARD" = "Restart SpringBoard";
+	"RESTART_SPRINGBOARD_MESSAGE" = "SpringBoard should restart to apply changes. Would you like to restart SpringBoard now?";
+	"SHOW_NOCASE_AS_CAPITAL" = "Show No Case As Capital";
+	"SMALL_KEYPAD" = "Small Keypad";
+	"SPECIAL_KEYS_DESCRIPTION" = "Set keys to @left, @right, @up and @down to add cursor mover\Uff0cset @undo or @redo to add undo/redo function\U3002";
+	TRANSLATORS = Translators;
+}

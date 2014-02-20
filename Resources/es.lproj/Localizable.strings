@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APPLY</key>
+	<string>Aplicar</string>
+	<key>CANCEL</key>
+	<string>Cancelar</string>
+	<key>CAPITAL_KEYPAD</key>
+	<string>Teclado mayusculas</string>
+	<key>CONFIRM</key>
+	<string>Confirmar</string>
+	<key>CUSTOMIZABLE_EXTRA_KEYS_FOR_ALL_LANGUAGES</key>
+	<string>Botones extra personalizables para todos los idiomas</string>
+	<key>DISPLAYMENT_LABEL</key>
+	<string>← Boton de desplazamiento</string>
+	<key>ENABLED</key>
+	<string>Activado</string>
+	<key>FOUND_IKEYWI_SETTINGS</key>
+	<string>Encontrados 1 ajustes de iKeywi</string>
+	<key>FOUND_IKEYWI_SETTINGS_MESSAGE</key>
+	<string>Existe 1 archivo de iKeywi 1. ¿Quieres importarlo ahora?</string>
+	<key>HELP</key>
+	<string>Ayuda</string>
+	<key>IKEYWI_SHARE_TEXT</key>
+	<string>Estoy usando #iKeywi 2 para agregar botones personalizados a mi teclado del iPhone! </string>
+	<key>IMPORT</key>
+	<string>Importar</string>
+	<key>IMPORT_SETTINGS</key>
+	<string>Importar ajustes</string>
+	<key>IMPORT_SETTINGS_MESSAGE</key>
+	<string>Todos los ajustes y botones de iKeywi 1 serán importados. ¿Quieres continuar?</string>
+	<key>KEY_DISPLAYMENT_DETAIL</key>
+	<string>Mostrar botón és el texto que se muestra en el botón. El valor por defecto es el mismo que el Botón de representacion.</string>
+	<key>KEY_DISPLAYMENT_OPTIONAL</key>
+	<string>Mostrar botón (Opcional)</string>
+	<key>KEYS_ONLY_AVAILABLE_FOR_SOME_LANG</key>
+	<string>Los botones 11 y 12 estan disponibles solo en algunos lenguajes.</string>
+	<key>KEY_REPRESENTATION</key>
+	<string>Botón de Representacion</string>
+	<key>KEY_REPRESENTATION_DETAIL</key>
+	<string>Aqui se escribe el texto el cual se escribira despues de que le des al botón.</string>
+	<key>LANDSCAPE_KEY_HEIGHT</key>
+	<string>Paisaje de los botones</string>
+	<key>NOCASE_OPTION_DESCRIPTION</key>
+	<string>Only works for languages without cases, such as Arabic and Hebrew. Enable this option to make the extra row show custom keys as capital keypad.</string>
+	<key>NUMBER_ALT_KEYPAD</key>
+	<string>Teclado simbólico</string>
+	<key>NUMBER_KEYPAD</key>
+	<string>Teclado numérico</string>
+	<key>OPTION_FOR_NOCASE_KEYBOARD</key>
+	<string>Option For No Case Keyboard</string>
+	<key>PORTRAIT_KEY_HEIGHT</key>
+	<string>Tamaño de los botones</string>
+	<key>REPRESENTATION_LABEL</key>
+	<string>← Representación del botón</string>
+	<key>RESET_SETTINGS</key>
+	<string>Reiniciar ajustes</string>
+	<key>RESET_SETTINGS_MESSAGE</key>
+	<string>Todos los botones y ajuste se reiniciarán por defecto. ¿Quieres continuar?</string>
+	<key>RESPRING_BUTTON</key>
+	<string>Continuar</string>
+	<key>RESTART_SPRINGBOARD</key>
+	<string>Reiniciar el SpringBoard</string>
+	<key>RESTART_SPRINGBOARD_MESSAGE</key>
+	<string>Se deberia el SpringBoard para aplicar los cambios. ¿Quieres reiniciar el SpringBoard ahora?</string>
+	<key>SHOW_NOCASE_AS_CAPITAL</key>
+	<string>Show No Case As Capital</string>
+	<key>SMALL_KEYPAD</key>
+	<string>Teclado minúsculas</string>
+	<key>SPECIAL_KEYS_DESCRIPTION</key>
+	<string>Para agregar cursores escribir @left, @right, @up y @down， @undo or @redo para agregar la función deshacer/rehacer。</string>
+	<key>TRANSLATORS</key>
+	<string>Traductores</string>
+</dict>
+</plist>

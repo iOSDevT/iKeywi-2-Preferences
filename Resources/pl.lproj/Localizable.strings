@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APPLY</key>
+	<string>Zastosuj</string>
+	<key>CANCEL</key>
+	<string>Anuluj</string>
+	<key>CAPITAL_KEYPAD</key>
+	<string>Klawiatura z Dużymi Literami</string>
+	<key>CONFIRM</key>
+	<string>Potwierdź</string>
+	<key>CUSTOMIZABLE_EXTRA_KEYS_FOR_ALL_LANGUAGES</key>
+	<string>Konfigurowalne Dodatkowe Klawisze dla Wszystkich Języków</string>
+	<key>DISPLAYMENT_LABEL</key>
+	<string>← Tekst Wyświetlany na Klawiszach</string>
+	<key>ENABLED</key>
+	<string>Włączone</string>
+	<key>FOUND_IKEYWI_SETTINGS</key>
+	<string>Znaleziono Ustawienia iKeywi 1</string>
+	<key>FOUND_IKEYWI_SETTINGS_MESSAGE</key>
+	<string>Istnieje plik ustawień iKeywi 1. Czy chciałbyś go teraz zaimportować?</string>
+	<key>HELP</key>
+	<string>Pomoc</string>
+	<key>IKEYWI_SHARE_TEXT</key>
+	<string>Używam #iKeywi 2 do dodania konfigurowalnych klawiszy do klawiatury na moim iPhonie!</string>
+	<key>IMPORT</key>
+	<string>Importuj</string>
+	<key>IMPORT_SETTINGS</key>
+	<string>Import Ustawień</string>
+	<key>IMPORT_SETTINGS_MESSAGE</key>
+	<string>Wszystkie dodatkowe klawisze, które zostały skonfigurowane i ustawienia zostaną zaimportowane z iKeywi 1. Czy chcesz kontynuować?</string>
+	<key>KEY_DISPLAYMENT_DETAIL</key>
+	<string>Tekst Wyświetlany na Klawiszach to tekst, który wyświetlany jest na klawiszu. Domyślnie jest taki samy jak Tekst Wstawiany.</string>
+	<key>KEY_DISPLAYMENT_OPTIONAL</key>
+	<string>Tekst Wyświetlany na Klawiszach (Opcjonalnie)</string>
+	<key>KEY_REPRESENTATION</key>
+	<string>Tekst Wstawiany</string>
+	<key>KEY_REPRESENTATION_DETAIL</key>
+	<string>Tekst Wstawiany to tekst, który zostanie wstawiony po naciśnięciu klawisza.</string>
+	<key>KEYS_ONLY_AVAILABLE_FOR_SOME_LANG</key>
+	<string>Klawisze 11 i 12 są dostępne tylko w niektórych językach.</string>
+	<key>LANDSCAPE_KEY_HEIGHT</key>
+	<string>Wysokość Klawiszy w Trybie Horyzontalnym</string>
+	<key>NOCASE_OPTION_DESCRIPTION</key>
+	<string>Only works for languages without cases, such as Arabic and Hebrew. Enable this option to make the extra row show custom keys as capital keypad.</string>
+	<key>NUMBER_ALT_KEYPAD</key>
+	<string>Klawiatura Symboli</string>
+	<key>NUMBER_KEYPAD</key>
+	<string>Klawiatura Numeryczna</string>
+	<key>OPTION_FOR_NOCASE_KEYBOARD</key>
+	<string>Option For No Case Keyboard</string>
+	<key>PORTRAIT_KEY_HEIGHT</key>
+	<string>Wysokość Klawiszy w Trybie Portretowym</string>
+	<key>REPRESENTATION_LABEL</key>
+	<string>← Tekst Wstawiany</string>
+	<key>RESET_SETTINGS</key>
+	<string>Reset Ustawień</string>
+	<key>RESET_SETTINGS_MESSAGE</key>
+	<string>Wszystkie dodatkowe klawisze i ustawienia zostaną przywrócone do domyślnych wartości. Czy chcesz kontynuować?</string>
+	<key>RESPRING</key>
+	<string>Respring</string>
+	<key>RESPRING_BUTTON</key>
+	<string>Kontynuuj</string>
+	<key>RESTART_SPRINGBOARD</key>
+	<string>Przeładuj SpringBoard</string>
+	<key>RESTART_SPRINGBOARD_MESSAGE</key>
+	<string>SpringBoard powinien zostać przeładowany aby zastosować zmiany. Czy chcesz przeładować SpringBoard teraz?</string>
+	<key>SHOW_NOCASE_AS_CAPITAL</key>
+	<string>Show No Case As Capital</string>
+	<key>SMALL_KEYPAD</key>
+	<string>Klawiatura z Małymi Literami</string>
+	<key>TRANSLATORS</key>
+	<string>Tłumacze</string>
+</dict>
+</plist>

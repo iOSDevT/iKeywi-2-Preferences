@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APPLY</key> 
+	<string>Применить</string>
+	<key>CANCEL</key>
+	<string>Отмена</string> 
+	<key>CAPITAL_KEYPAD</key>
+	<string>Буквенная + Shift</string> 
+	<key>CONFIRM</key>
+	<string>Подтвердить</string> 
+	<key>CUSTOMIZABLE_EXTRA_KEYS_FOR_ALL_LANGUAGES</key>
+	<string>Дополнительные настраиваемые кнопки для всех языков</string>
+	<key>DISPLAYMENT_LABEL</key>
+	<string>← Надпись на кнопках</string>
+	<key>ENABLED</key>
+	<string>Включить</string>
+	<key>FOUND_IKEYWI_SETTINGS</key>
+	<string>Найдена одна настройка для iKeywi</string>
+	<key>FOUND_IKEYWI_SETTINGS_MESSAGE</key>
+	<string>Есть одна настройка для iKeywi. Желаете импортировать её сейчас?</string>
+	<key>HELP</key>
+	<string>Помощь</string>
+	<key>IKEYWI_SHARE_TEXT</key>
+	<string>I&apos;m using #iKeywi 2 to add customizable keys to my iPhone&apos;s keyboard! </string>
+	<key>IMPORT</key>
+	<string>Импорт</string>
+	<key>IMPORT_SETTINGS</key>
+	<string>Импортировать настройки</string>
+	<key>IMPORT_SETTINGS_MESSAGE</key>
+	<string>Все дополнительные кнопки будут импортированы из настроек iKeywi 1. Хотите продолжить?</string>
+	<key>KEY_DISPLAYMENT_DETAIL</key>
+	<string>В этом разделе вводите текст, который будет отображаться на кнопках. По-умолчанию будет выведен текст из настроек дополнительных символов.</string>
+	<key>KEY_DISPLAYMENT_OPTIONAL</key>
+	<string>Надпись на кнопках (Не обязательные настройки)</string>
+	<key>KEYS_ONLY_AVAILABLE_FOR_SOME_LANG</key>
+	<string>Кнопки 11 и 12 будут доступны в некоторых языковых клавиатурах.</string>
+	<key>KEY_REPRESENTATION</key>
+	<string>Настройка дополнительных кнопок</string>
+	<key>KEY_REPRESENTATION_DETAIL</key>
+	<string>В настройках дополнительных кнопок следует ввести символы или текст, который будет вводиться при нажатии на соответствующую кнопку.</string>
+	<key>LANDSCAPE_KEY_HEIGHT</key>
+	<string>Высота кнопок в горизонтальной ориентации</string>
+	<key>NUMBER_ALT_KEYPAD</key>
+	<string>Символьная клавиатура</string>
+	<key>NUMBER_KEYPAD</key>
+	<string>Цифровая клавиатура</string>
+	<key>PORTRAIT_KEY_HEIGHT</key>
+	<string>Высота кнопок в портретной ориентации</string>
+	<key>REPRESENTATION_LABEL</key>
+	<string>← Настраиваемое значение</string>
+	<key>RESET_SETTINGS</key>
+	<string>Сбросить настройки</string>
+	<key>RESET_SETTINGS_MESSAGE</key>
+	<string>Все настройки дополнительных кнопок будут сброшены и применены параметры по-умолчанию. Желаете продолжить?</string>
+	<key>RESPRING_BUTTON</key>
+	<string>Продолжить</string>
+	<key>RESTART_SPRINGBOARD</key>
+	<string>Сделать Респринг</string>
+	<key>RESTART_SPRINGBOARD_MESSAGE</key>
+	<string>Для вступления настроек в силу нужно сделать Респринг. Желаете сделать это сейчас?</string>
+	<key>SMALL_KEYPAD</key>
+	<string>Буквенная обыкновенная</string>
+	<key>SPECIAL_KEYS_DESCRIPTION</key>
+	<string>Используйте значения @left, @right, @up и @down для добавления кнопок управления курсором. Используйте значения @undo или @redo для добавления кнопок отмены/повтора последнего действия。</string>
+	<key>TRANSLATORS</key>
+	<string>Переводчики</string>
+</dict>
+</plist>
